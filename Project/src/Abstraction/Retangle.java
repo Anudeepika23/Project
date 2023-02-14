@@ -5,6 +5,7 @@ public class Retangle extends Shape{
 		System.out.println("drawing retangle");
 		System.out.println("a");
 		System.out.println("b");
+		System.out.println("c");
 	}
 
 }
